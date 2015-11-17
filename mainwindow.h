@@ -34,6 +34,8 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
 
+    // es wettert
+
 private:
     Ui::MainWindow *ui;
 
